@@ -31,7 +31,7 @@ public class TestCases {
 
 
 	@Test
-	public void Case3006() {
+	public void Case3007() {
 		
 	}
 	
