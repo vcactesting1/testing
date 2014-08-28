@@ -29,10 +29,12 @@ public class TestCases {
 		Methods.ClickByID("submit");
 	}
 
+
 	@Test
-	public void Case3004() {
+	public void Case3006() {
 		
 	}
+	
 	@AfterSuite
 	public void CloseBrowser(){
 //		Methods.driver.quit();
