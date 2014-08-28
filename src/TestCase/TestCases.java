@@ -28,9 +28,9 @@ public class TestCases {
 		System.out.println("Click Login button");
 		Methods.ClickByID("submit");
 	}
-	
+
 	@Test
-	public void Case3003() {
+	public void Case3004() {
 		
 	}
 	@AfterSuite
