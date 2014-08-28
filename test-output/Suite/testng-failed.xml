@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="VCACUrl" value="https://172.16.26.16/vcac"/>
+  <parameter name="Password" value="vmware123"/>
+  <parameter name="UserName" value="root"/>
+  <test name="Test(failed)">
+    <classes>
+      <class name="TestCase.TestCases">
+        <methods>
+          <include name="Login"/>
+          <include name="Case2001"/>
+        </methods>
+      </class> <!-- TestCase.TestCases -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
