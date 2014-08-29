@@ -93,6 +93,11 @@ public class TestCases {
 	
 	}
 	
+	@Test
+	public void Case3024() {
+	
+	}
+	
 	@AfterSuite
 	public void CloseBrowser(){
 //		Methods.driver.quit();
