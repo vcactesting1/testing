@@ -77,7 +77,11 @@ public class TestCases {
 	public void Case3019() {
 	
 	}
-
+	
+	@Test
+	public void Case3020() {
+	
+	}
 
 	@AfterSuite
 	public void CloseBrowser(){
