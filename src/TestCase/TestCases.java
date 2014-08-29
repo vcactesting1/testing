@@ -35,13 +35,12 @@ public class TestCases {
 	}
 	
 	@Test
-<<<<<<< HEAD
-
 	public void Case3010() {
-=======
-	public void Case3014() {
->>>>>>> 559ed8535fff516f616f9ae8b5096b5fe377daf4
 		
+	}
+
+	public void Case3014() {
+	
 	}
 
 	@Test
@@ -49,6 +48,11 @@ public class TestCases {
 	
 	}
 
+	@Test
+	public void Case3017() {
+	
+	}
+	
 	@AfterSuite
 	public void CloseBrowser(){
 //		Methods.driver.quit();
