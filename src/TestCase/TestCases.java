@@ -35,17 +35,22 @@ public class TestCases {
 	}
 	
 	@Test
-<<<<<<< HEAD
-
 	public void Case3010() {
-=======
+		
+	}
+
+	
 	public void Case3014() {
->>>>>>> 559ed8535fff516f616f9ae8b5096b5fe377daf4
 		
 	}
 
 	@Test
 	public void Case3015() {
+	
+	}
+	
+	@Test
+	public void Case3016() {
 	
 	}
 
