@@ -34,20 +34,39 @@ public class TestCases {
 		
 	}
 	
+
 	@Test
 	public void Case3010() {
 		
 	}
 
+	@Test
+	public void Case32() {
+		
+	}
+
 	
 	public void Case3014() {
+
 		
+	}
+
+	public void Case3() {
+	
 	}
 
 	@Test
 	public void Case3015() {
 	
 	}
+
+
+	@Test
+	public void Case3017() {
+	
+	}
+	
+
 	
 	@Test
 	public void Case3016() {
@@ -58,6 +77,7 @@ public class TestCases {
 	public void Case3019() {
 	
 	}
+
 
 	@AfterSuite
 	public void CloseBrowser(){
