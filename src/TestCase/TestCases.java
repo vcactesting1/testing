@@ -34,22 +34,24 @@ public class TestCases {
 		
 	}
 	
-<<<<<<< HEAD
+
 	@Test
 	public void Case3010() {
-=======
+		
+	}
+
 	@Test
-	public void Case3010() {
+	public void Case32() {
 		
 	}
 
 	
 	public void Case3014() {
->>>>>>> origin/master
+
 		
 	}
 
-	public void Case3014() {
+	public void Case3() {
 	
 	}
 
@@ -57,21 +59,21 @@ public class TestCases {
 	public void Case3015() {
 	
 	}
-<<<<<<< HEAD
+
 
 	@Test
 	public void Case3017() {
 	
 	}
 	
-=======
+
 	
 	@Test
 	public void Case3016() {
 	
 	}
 
->>>>>>> origin/master
+
 	@AfterSuite
 	public void CloseBrowser(){
 //		Methods.driver.quit();
